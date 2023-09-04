@@ -1,5 +1,6 @@
-# ECommerce
+# Hello 👋
 
+# ECommerce
 
 https://github.com/MeladKarmy/shop/assets/132492691/313c5cef-c56d-4c46-9d27-932ae952a65e
 
