@@ -18,7 +18,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
       - Also About Page shows data about the Web App
       - The shop page that shows the products has
                 Filter by category and filter by name in the product search and add the product to the cart
-      
       - single product page to show the product details and can comment on the product but you must log in first
       - checkout page that shows details of products in the cart and details of shopping 
       - Finally payment method by pay pal
@@ -26,9 +25,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   ## Back end
 
     - Used JWT in login and Register  and before storing data used  hash password
-    - pagination  and filter products
+    - pagination  and filter products and category
     - validation on layers
-    - routes 
+    - routes & controller 
     - Restful API
     - CRUD Operation on products
     
